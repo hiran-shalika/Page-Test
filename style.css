@@ -1,0 +1,111 @@
+
+.page{
+    width: 320px;
+    height: 1000px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    position: absolute;
+    margin-top: 240px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.banner{
+    width: 260px;
+    height: 40px;
+    background-color: rgb(21, 8, 255);
+    position: absolute;
+    margin-top: 265px;
+    margin-left: 25px;
+    border-radius: 30px;
+    color: white;
+}
+
+.btn1{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 50px;
+    border-radius: 100px;
+    border: 2px solid blue;
+}
+
+.btn2{
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 106px;
+    border: 2px solid blue;
+    border-radius: 30px;
+}
+
+.btn3{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 212px;
+    border-radius: 100px;
+    border: 2px solid blue;
+}
+
+.newsFeed{
+    width: 240px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 32px;
+    border: 3px solid blue;
+    border-radius: 30px;
+}
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    margin-top: 400px;
+}
+
+.welcomeText{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text1{
+    position: absolute;
+    margin-top: -7px;
+    margin-left: px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text2{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text3{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.newsFeedText{
+    position: absolute;
+    margin-top:3px;
+    margin-left: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+}
