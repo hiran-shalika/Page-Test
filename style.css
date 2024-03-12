@@ -1,7 +1,7 @@
 
 .page{
     width: 320px;
-    height: 1000px;
+    height: 1700px;
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -16,7 +16,7 @@
     height: 40px;
     background-color: rgb(21, 8, 255);
     position: absolute;
-    margin-top: 265px;
+    margin-top: 620px;
     margin-left: 25px;
     border-radius: 30px;
     color: white;
@@ -27,7 +27,7 @@
     height: 50px;
     background-color: white;
     position: absolute;
-    margin-top: 330px;
+    margin-top: 680px;
     margin-left: 50px;
     border-radius: 100px;
     border: 2px solid blue;
@@ -38,7 +38,7 @@
     height: 50px;
     background-color: white;
     position: absolute;
-    margin-top: 330px;
+    margin-top: 680px;
     margin-left: 106px;
     border: 2px solid blue;
     border-radius: 30px;
@@ -49,7 +49,7 @@
     height: 50px;
     background-color: white;
     position: absolute;
-    margin-top: 330px;
+    margin-top: 680px;
     margin-left: 212px;
     border-radius: 100px;
     border: 2px solid blue;
@@ -60,10 +60,54 @@
     height: 20px;
     background-color: white;
     position: absolute;
-    margin-top: 410px;
+    margin-top: 750px;
     margin-left: 32px;
     border: 3px solid blue;
     border-radius: 30px;
+}
+
+.newsFeedPost1{
+    width: 240px;
+    height: 250px;
+    background-color: white;
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 32px;
+    border: 3px solid blue;
+    border-radius: 20px;
+}
+
+.newsFeedPost2{
+    width: 240px;
+    height: 250px;
+    background-color: white;
+    position: absolute;
+    margin-top: 1070px;
+    margin-left: 32px;
+    border: 3px solid blue;
+    border-radius: 20px;
+}
+
+.newsFeedPost3{
+    width: 240px;
+    height: 250px;
+    background-color: white;
+    position: absolute;
+    margin-top: 1340px;
+    margin-left: 32px;
+    border: 3px solid blue;
+    border-radius: 20px;
+}
+
+.seeMoreBtn{
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    position: absolute;
+    margin-top: 1610px;
+    margin-left: 55px;
+    border: 3px solid blue;
+    border-radius: 20px;
 }
 
 .box5{
